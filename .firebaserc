@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cd-key-shop": {
+      "hosting": {
+        "cd-key-shop": [
+          "cd-key-shop"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cd-key-shop"
+  }
+}
